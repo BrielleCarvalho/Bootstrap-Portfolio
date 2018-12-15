@@ -1,0 +1,37 @@
+/* CSS for Index.html in Boostrap-Portfolio */
+.profilepic {
+    padding: 10px;
+    width: 250px;
+    height: 250px;
+}
+.left{
+    float: left;
+    position: relative;
+    width: 215px;
+}
+.content{
+    justify-content: center;
+    right: -20px;
+    bottom: 40px;
+    position: absolute;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+    padding: 20px;
+}
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: center;
+    padding: .5rem;
+}
+p{
+    padding: 10px;
+}
